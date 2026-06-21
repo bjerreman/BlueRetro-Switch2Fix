@@ -55,7 +55,7 @@ dkms.conf
 .python-version
 sdkconfig
 sdkconfig.old
-version.txt
+# version.txt tracked in this fork for embedded release version string
 *.h4
 *.pcap
 *.pcapng
