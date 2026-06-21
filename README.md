@@ -1,3 +1,25 @@
+Only tested on the Laserbear GameCube Blue Retro Internal Adapter V3 adapter which is a HW2 Gamecube build!
+Hence, only distributing that version here.
+
+Please note that this build has not been stress tested. If you connect all of the controllers in rapid succession there can be collisions. Better to start them up more slowly so the radio environment isn't too fuzzy. You can otherwise see contention where the 4th controller disconnects the first, or where stick drift can occur (incorrect calibration data). If this happens rather just disconnect that controller (will take a while for it to register in game) and then try again.
+
+It's a continuation of the 25.10 beta build which added initial Switch 2 Controller support.
+
+I have tested with four Switch 2 NSO Gamecube controllers.
+
+Update via https://blueretro.io/index.html or https://darthcloud.github.io/BlueRetroWebCfg_Beta/ as you normally would.
+
+- bjerreman
+
+
+
+
+
+
+
+
+
+
 **This repository has been archived and is no longer under active development or maintenance.**
 
 ```
