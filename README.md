@@ -1,3 +1,9 @@
+**PSA: Ryan Colly has also made a version solving this issue which also includes some of my fixes**
+https://github.com/RyanCopley/BlueRetro
+
+--------
+
+
 Only tested on the Laserbear GameCube Blue Retro Internal Adapter V3 adapter which is a HW2 Gamecube build!
 Hence, only distributing that version here.
 
