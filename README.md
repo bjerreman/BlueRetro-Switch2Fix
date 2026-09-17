@@ -1,4 +1,5 @@
-**PSA: Ryan Colly has also made a version solving this issue which also includes some of my fixes**
+**PSA: Ryan Copley has also made a version solving this issue which also includes some of my fixes**
+Your milage may vary between mine and his, I feel on my setup that the controllers faster acquire connection and don't get stuck for a bit after connection with his version. It's likely it does some things better than mine as well in other places, such as the Melee friendly commands (I simply changed the defaults myself). I actively encouraged him to see if there was anything to salvage from my build and it's good to have options so I want to include it here.
 https://github.com/RyanCopley/BlueRetro
 
 --------
